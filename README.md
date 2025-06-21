@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on improving my knowldegde in innovative AI-based apps, enhancing my full-stack development skills, and exploring competitive programming challenges.<br> I’m looking to collaborate on open-source projects related to AI, web development, and software tools that make a real-world impact.<br> I’m currently studying Computer and AI engineering in Ain Shams university <br>
+I’m currently working on improving my knowldegde in innovative AI-based apps, enhancing my full-stack development skills, and exploring competitive programming challenges.<br> I’m looking to collaborate on open-source projects related to AI, web development, and software tools that make a real-world impact.<br> I’m currently studying Computer and AI engineering in Ain Shams university <br>
 
 
 ## 🌐 Socials:
